@@ -1,0 +1,2 @@
+All source codes here consists of the deep learning architecture or Convolutional Neural Network. Including VGG16, VGG19, InceptionV3 and ResNet50. 
+The purpose of this project is using these networks to show the performance that most suitable for snake species classification through images. 
